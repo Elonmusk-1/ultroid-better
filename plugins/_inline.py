@@ -52,7 +52,7 @@ async def e(o):
         res = [
             await b.article(
                 title="Ultroid Userbot",
-                url="https://t.me/TeamUltroid",
+                url="https://t.me/class_9th_10th",
                 description="Userbot | Telethon ",
                 text=ALIVEMSG,
                 thumb=InputWebDocument(ULTROID_PIC, 0, "image/jpeg", []),
