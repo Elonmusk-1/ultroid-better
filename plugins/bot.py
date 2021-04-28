@@ -82,7 +82,7 @@ async def lol(ult):
         uptime,
         pyver(),
         __version__,
-        kk,
+        ,
     )
     if pic is None:
         return await eor(ult, als)
