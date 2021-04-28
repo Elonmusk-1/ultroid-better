@@ -48,7 +48,6 @@ async def e(o):
             uptime,
             pyver(),
             __version__,
-            Repo().active_branch,
         )
         res = [
             await b.article(
